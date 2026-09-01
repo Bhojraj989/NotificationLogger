@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Notification Logger</string>
+    <string name="tagline">Logs your notifications to a local text file. 100% offline.</string>
+    <string name="logging_enabled_label">Logging enabled</string>
+    <string name="btn_grant_access">Grant Notification Access</string>
+    <string name="btn_view_log">View / Edit Log File</string>
+    <string name="btn_exclude_apps">Manage App Notifications</string>
+    <string name="btn_clear_log">Clear All Logs</string>
+    <string name="back">\u2190 Back</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_share">Share</string>
+    <string name="btn_delete">Delete</string>
+    <string name="passcode_title">Enter Passcode</string>
+    <string name="passcode_hint">4-digit code</string>
+    <string name="btn_unlock">Unlock</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="wrong_passcode">Incorrect passcode</string>
+    <string name="app_list_title">App Notifications</string>
+    <string name="app_list_subtitle">Turn an app OFF to stop logging its notifications.</string>
+    <string name="privacy_note">Privacy note: notification content is stored in plain text on this device only. Nothing is uploaded anywhere. You are responsible for the security of the log file (e.g. if you share your device or back it up).</string>
+</resources>
